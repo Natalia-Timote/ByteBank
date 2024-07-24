@@ -1,6 +1,6 @@
 # Registros de transações bancárias no banco virtual Bytebank
 
-  Este projeto está sendo desenvolvido através do curso "TypeScript na prática: implemente um projeto completo com TypeScript e módulos", da Alura. 
+  Este projeto foi desenvolvido através do curso "TypeScript na prática: implemente um projeto completo com TypeScript e módulos", da Alura. 
 
 ![Static Badge](https://img.shields.io/badge/Conclu%C3%ADdo-label?style=for-the-badge&label=Status) ![Static Badge](https://img.shields.io/badge/Alura-label?style=for-the-badge&label=Curso&color=%23000080)
 
