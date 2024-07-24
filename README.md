@@ -17,6 +17,3 @@
 ## Tecnologias aprofundadas durante o curso
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" height="80"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="80" height="80"/>
-
-<!-- ## Visualização do projeto
-<a href="https://monibank-ruby.vercel.app/" target="_blank">![Static Badge](https://img.shields.io/badge/Vercel-project?style=for-the-badge&color=A91079)</a>
